@@ -1,0 +1,1 @@
+import quandlimport numpy as npdef wiki_struct():    df = quandl.get('WIKI/GOOGL')    df = df[['Adj. Open',  'Adj. High',   'Adj. Low',  'Adj. Close', 'Adj.Volume']]    print(df.head())def computeCost(X, y, theta):    inner = np.power(((X * theta.T) - y), 2)    return np.sum(inner) / (2 * len(X))
