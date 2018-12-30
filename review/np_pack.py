@@ -1,0 +1,1 @@
+import randomdef max_value(n, p, v, i, v_pack):    # 取第i件商品填充一个容积为v的背包的最大价值    for i in range(len(n)):        for v in v[i]:            if __name__ == '__main__':    n = 10  # 物品数量    # pi = [random.randint(1, 10) for i in range(10)] # 物品价值    p = [4, 9, 10, 8, 9, 4, 9, 4, 7, 2]    v = [7, 8, 1, 9, 3, 10, 8, 4, 5, 10]  # 物体的体积# 5500

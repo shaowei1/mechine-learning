@@ -1,0 +1,1 @@
+模拟退火算法84页logistic_regression/stocGradAscent1,仅对数据集进行了20次遍历sigmoid是做什么的对矩阵做持久化，并且可以随时修改解释器导入，优先找当前有没有enginepycharm　包索引缓存文件

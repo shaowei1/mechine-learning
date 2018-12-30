@@ -1,0 +1,1 @@
+s = '000080079'def convert(s):    res = list()    s = list(str(s))    for i in s:        res.append(int(i))    print(res)convert(s)
