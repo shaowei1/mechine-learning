@@ -1,0 +1,1 @@
+"""# 重叠子问题fabnacciOPT(i): 考虑第i个任务的最优解OPT(8): max(选: 4+ OPT(5),            不选: OPT(7))prev(i): 表示非要做第i个OPT(i) = max(select: vi + OPT(prev(i)), noselect: OPT(i - 1))prev(i) = [0 0 0 1 0 2 3 5]OPT(i) = [5 5 8 9 9 9 ...]"""

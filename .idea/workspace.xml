@@ -2,20 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="936c090d-2810-4be4-a612-214e9d7ad243" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02_kNN/simple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_logistic_regression/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geek/full_permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/review/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/review/Sudoku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/review/egg_floor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/review/np_pack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/review/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_kNN/createFirstPlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_kNN/createFirstPlot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_kNN/whether_like.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_kNN/whether_like.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_AdaBoost/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_k_means/kmeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificial/Lsystem/Lsystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificial/Lsystem/Lsystem2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificial/Lsystem/Lsystem3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificial/dynamic_programming/do_max_opt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificial/dynamic_programming/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificial/dynamic_programming/sum_equal_nine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificial/pailie/all_pailie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificial/red_black_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july/python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review/code/Introduce自我介绍.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review/code/delete_ac_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review/code/egg_floor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review/code/map_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review/code/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review/code/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review/code/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review/tiger/my_graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_decisionTree/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_decisionTree/tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05_logistic_regression/logRegres.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_logistic_regression/logRegres.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_AdaBoost/adaboost1.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_AdaBoost/adaboost1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review/01_reverser.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/code/01_reverser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/review/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review/Sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/code/Sudoku.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review/delete_ac_b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/review/egg_floor.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_regression/regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review/np_pack.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/code/np_pack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review/quick_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/code/quick_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,35 +42,63 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/atrificial_intelligence$draw_tree.coverage" NAME="draw_tree Coverage Results" MODIFIED="1545030276819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_decisionTree" />
+    <SUITE FILE_PATH="coverage/machine_learning$common_str.coverage" NAME="common_str Coverage Results" MODIFIED="1547798882516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review/meiqia" />
     <SUITE FILE_PATH="coverage/atrificial_intelligence$merge.coverage" NAME="merge Coverage Results" MODIFIED="1545383926627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geek" />
     <SUITE FILE_PATH="coverage/machine_learning$svmMLiA.coverage" NAME="svmMLiA Coverage Results" MODIFIED="1545839738456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_sm0" />
-    <SUITE FILE_PATH="coverage/atrificial_intelligence$monoDemo.coverage" NAME="monoDemo Coverage Results" MODIFIED="1545148653904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_pusu/EXTRAS" />
-    <SUITE FILE_PATH="coverage/machine_learning$test.coverage" NAME="test Coverage Results" MODIFIED="1546090443553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
+    <SUITE FILE_PATH="coverage/machine_learning$combination.coverage" NAME="combination Coverage Results" MODIFIED="1546775735060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geek" />
+    <SUITE FILE_PATH="coverage/machine_learning$cook_dead.coverage" NAME="cook_dead Coverage Results" MODIFIED="1547808710200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review/meiqia" />
     <SUITE FILE_PATH="coverage/atrificial_intelligence$createFirstPlot.coverage" NAME="createFirstPlot Coverage Results" MODIFIED="1545019475977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_kNN" />
     <SUITE FILE_PATH="coverage/atrificial_intelligence$predict_silver_mirror.coverage" NAME="predict_silver_mirror Coverage Results" MODIFIED="1545128052825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_decisionTree" />
-    <SUITE FILE_PATH="coverage/atrificial_intelligence$create2Normal.coverage" NAME="create2Normal Coverage Results" MODIFIED="1545148838955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_pusu/EXTRAS" />
     <SUITE FILE_PATH="coverage/atrificial_intelligence$treePlotter.coverage" NAME="treePlotter Coverage Results" MODIFIED="1545040320534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_decisionTree" />
     <SUITE FILE_PATH="coverage/atrificial_intelligence$first.coverage" NAME="first Coverage Results" MODIFIED="1545186173597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00_machine_learning" />
+    <SUITE FILE_PATH="coverage/machine_learning$Lsystem2.coverage" NAME="Lsystem2 Coverage Results" MODIFIED="1546415536929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/artificial" />
+    <SUITE FILE_PATH="coverage/machine_learning$red_black_tree.coverage" NAME="red_black_tree Coverage Results" MODIFIED="1547444047309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/artificial" />
+    <SUITE FILE_PATH="coverage/machine_learning$tree.coverage" NAME="tree Coverage Results" MODIFIED="1546222210792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_decisionTree" />
+    <SUITE FILE_PATH="coverage/atrificial_intelligence$test.coverage" NAME="test Coverage Results" MODIFIED="1545053587736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_decisionTree" />
+    <SUITE FILE_PATH="coverage/machine_learning$Doctest_judge_x_to_y.coverage" NAME="Doctest judge_x_to_y Coverage Results" MODIFIED="1547109178885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
+    <SUITE FILE_PATH="coverage/atrificial_intelligence$two_recursion.coverage" NAME="two_recursion Coverage Results" MODIFIED="1545322938736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geek" />
+    <SUITE FILE_PATH="coverage/machine_learning$second.coverage" NAME="second Coverage Results" MODIFIED="1546421380368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/artificial/dynamic_programming" />
+    <SUITE FILE_PATH="coverage/machine_learning$Doctest_convert_num.coverage" NAME="Doctest convert_num Coverage Results" MODIFIED="1547111715914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
+    <SUITE FILE_PATH="coverage/atrificial_intelligence$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1545486019850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_logistic_regression" />
+    <SUITE FILE_PATH="coverage/atrificial_intelligence$delete_ac_b.coverage" NAME="delete_ac_b Coverage Results" MODIFIED="1545364700051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
+    <SUITE FILE_PATH="coverage/atrificial_intelligence$whether_like.coverage" NAME="whether_like Coverage Results" MODIFIED="1544979271661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_kNN" />
+    <SUITE FILE_PATH="coverage/machine_learning$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1548044625198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review/tiger" />
+    <SUITE FILE_PATH="coverage/machine_learning$my_graph.coverage" NAME="my_graph Coverage Results" MODIFIED="1548044413016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review/tiger" />
+    <SUITE FILE_PATH="coverage/atrificial_intelligence$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1545121934303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geek" />
+    <SUITE FILE_PATH="coverage/atrificial_intelligence$bayes.coverage" NAME="bayes Coverage Results" MODIFIED="1545148198193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_pusu" />
+    <SUITE FILE_PATH="coverage/machine_learning$python.coverage" NAME="python Coverage Results" MODIFIED="1547220602166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/july" />
+    <SUITE FILE_PATH="coverage/atrificial_intelligence$draw_tree.coverage" NAME="draw_tree Coverage Results" MODIFIED="1545030276819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_decisionTree" />
+    <SUITE FILE_PATH="coverage/machine_learning$kmeans.coverage" NAME="kmeans Coverage Results" MODIFIED="1548508948124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_k_means" />
+    <SUITE FILE_PATH="coverage/machine_learning$3_Tree.coverage" NAME="3-Tree Coverage Results" MODIFIED="1547613719201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review/code" />
+    <SUITE FILE_PATH="coverage/atrificial_intelligence$monoDemo.coverage" NAME="monoDemo Coverage Results" MODIFIED="1545148653904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_pusu/EXTRAS" />
+    <SUITE FILE_PATH="coverage/machine_learning$test.coverage" NAME="test Coverage Results" MODIFIED="1548310908231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review/meiqia" />
+    <SUITE FILE_PATH="coverage/atrificial_intelligence$create2Normal.coverage" NAME="create2Normal Coverage Results" MODIFIED="1545148838955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_pusu/EXTRAS" />
+    <SUITE FILE_PATH="coverage/machine_learning$Doctest_delete_ac_b.coverage" NAME="Doctest delete_ac_b Coverage Results" MODIFIED="1547100915543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
+    <SUITE FILE_PATH="coverage/machine_learning$Lsystem.coverage" NAME="Lsystem Coverage Results" MODIFIED="1546413547145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/artificial" />
     <SUITE FILE_PATH="coverage/atrificial_intelligence$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1545461486991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
     <SUITE FILE_PATH="coverage/atrificial_intelligence$kNN2.coverage" NAME="kNN2 Coverage Results" MODIFIED="1544978873849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_kNN" />
     <SUITE FILE_PATH="coverage/machine_learning$createFirstPlot.coverage" NAME="createFirstPlot Coverage Results" MODIFIED="1546175620354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_kNN" />
-    <SUITE FILE_PATH="coverage/atrificial_intelligence$test.coverage" NAME="test Coverage Results" MODIFIED="1545053587736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_decisionTree" />
     <SUITE FILE_PATH="coverage/atrificial_intelligence$tow_points.coverage" NAME="tow_points Coverage Results" MODIFIED="1544881371344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/atrificial_intelligence$01_reverser.coverage" NAME="01_reverser Coverage Results" MODIFIED="1545320792977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
-    <SUITE FILE_PATH="coverage/atrificial_intelligence$two_recursion.coverage" NAME="two_recursion Coverage Results" MODIFIED="1545322938736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geek" />
+    <SUITE FILE_PATH="coverage/machine_learning$graph.coverage" NAME="graph Coverage Results" MODIFIED="1548000239513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review/tiger" />
     <SUITE FILE_PATH="coverage/machine_learning$Sudoku.coverage" NAME="Sudoku Coverage Results" MODIFIED="1546090575338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
+    <SUITE FILE_PATH="coverage/machine_learning$prime.coverage" NAME="prime Coverage Results" MODIFIED="1547213174556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
+    <SUITE FILE_PATH="coverage/machine_learning$adaboost1.coverage" NAME="adaboost1 Coverage Results" MODIFIED="1546523159369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_AdaBoost" />
+    <SUITE FILE_PATH="coverage/machine_learning$eight_queen.coverage" NAME="eight_queen Coverage Results" MODIFIED="1548310947497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review/code" />
     <SUITE FILE_PATH="coverage/machine_learning$np_pack.coverage" NAME="np_pack Coverage Results" MODIFIED="1545810004087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
-    <SUITE FILE_PATH="coverage/atrificial_intelligence$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1545486019850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_logistic_regression" />
+    <SUITE FILE_PATH="coverage/machine_learning$tokenize.coverage" NAME="tokenize Coverage Results" MODIFIED="1548310924198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/virtualenvs/data_handle/lib/python3.6" />
     <SUITE FILE_PATH="coverage/atrificial_intelligence$kNN1.coverage" NAME="kNN1 Coverage Results" MODIFIED="1544972981531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_kNN" />
-    <SUITE FILE_PATH="coverage/atrificial_intelligence$delete_ac_b.coverage" NAME="delete_ac_b Coverage Results" MODIFIED="1545364700051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
-    <SUITE FILE_PATH="coverage/atrificial_intelligence$whether_like.coverage" NAME="whether_like Coverage Results" MODIFIED="1544979271661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_kNN" />
+    <SUITE FILE_PATH="coverage/machine_learning$dead_lock.coverage" NAME="dead_lock Coverage Results" MODIFIED="1547816012281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review/meiqia" />
+    <SUITE FILE_PATH="coverage/machine_learning$111.coverage" NAME="111 Coverage Results" MODIFIED="1546427151847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/artificial/dynamic_programming" />
+    <SUITE FILE_PATH="coverage/machine_learning$all_pailie.coverage" NAME="all_pailie Coverage Results" MODIFIED="1546520873697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/artificial/pailie" />
     <SUITE FILE_PATH="coverage/atrificial_intelligence$identify_handwriting.coverage" NAME="identify_handwriting Coverage Results" MODIFIED="1545482404965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_kNN" />
+    <SUITE FILE_PATH="coverage/machine_learning$Doctest_judge_common.coverage" NAME="Doctest judge_common Coverage Results" MODIFIED="1547101716619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
     <SUITE FILE_PATH="coverage/atrificial_intelligence$tree.coverage" NAME="tree Coverage Results" MODIFIED="1545127014054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_decisionTree" />
-    <SUITE FILE_PATH="coverage/atrificial_intelligence$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1545121934303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geek" />
-    <SUITE FILE_PATH="coverage/atrificial_intelligence$bayes.coverage" NAME="bayes Coverage Results" MODIFIED="1545148198193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_pusu" />
+    <SUITE FILE_PATH="coverage/machine_learning$Lsystem3.coverage" NAME="Lsystem3 Coverage Results" MODIFIED="1546415490924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/artificial" />
     <SUITE FILE_PATH="coverage/machine_learning$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1545566678589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_logistic_regression" />
-    <SUITE FILE_PATH="coverage/machine_learning$full_permutation.coverage" NAME="full_permutation Coverage Results" MODIFIED="1546051516563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geek" />
+    <SUITE FILE_PATH="coverage/machine_learning$full_permutation.coverage" NAME="full_permutation Coverage Results" MODIFIED="1546773760277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geek" />
+    <SUITE FILE_PATH="coverage/machine_learning$Doctest_sort_list.coverage" NAME="Doctest sort_list Coverage Results" MODIFIED="1547111487406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
+    <SUITE FILE_PATH="coverage/machine_learning$max_profit.coverage" NAME="max_profit Coverage Results" MODIFIED="1547991443863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review/tiger" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -127,93 +173,97 @@
     <session id="687382684">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="38" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.17" value="2" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.17" value="5" />
+          <entry key="project.open.time.18" value="5" />
+          <entry key="project.open.time.19" value="3" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="3" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="2" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="d" value="1" />
           <entry key="gitignore" value="3" />
-          <entry key="md" value="10" />
-          <entry key="png" value="1" />
-          <entry key="py" value="34" />
-          <entry key="txt" value="10" />
+          <entry key="html" value="1" />
+          <entry key="md" value="13" />
+          <entry key="png" value="2" />
+          <entry key="py" value="131" />
+          <entry key="pyi" value="2" />
+          <entry key="txt" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="1" />
-          <entry key="Markdown" value="10" />
-          <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="34" />
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="2" />
+          <entry key="Markdown" value="13" />
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="131" />
+          <entry key="PythonStub" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="209" />
+          <entry key="Python Console" value="307" />
+          <entry key="d" value="2304" />
+          <entry key="dummy" value="36" />
           <entry key="gitignore" value="35" />
-          <entry key="md" value="1222" />
-          <entry key="py" value="6167" />
+          <entry key="md" value="2611" />
+          <entry key="py" value="26355" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1215" />
-          <entry key="PLAIN_TEXT" value="35" />
-          <entry key="Python" value="6383" />
+          <entry key="Markdown" value="2579" />
+          <entry key="PLAIN_TEXT" value="2400" />
+          <entry key="Python" value="26669" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.9">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/07_AdaBoost/adaboost1.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-                  <folding>
-                    <marker date="1546184512396" expanded="true" signature="341:346" ph="..." />
-                    <marker date="1546184512396" expanded="true" signature="922:1341" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/.gitignore">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="114">
-                  <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/07_AdaBoost/adaboost.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1026" />
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/review/code/eight_queen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10_k_means/kmeans.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <marker date="1548508896908" expanded="true" signature="48:53" ph="..." />
+                <marker date="1548508896908" expanded="true" signature="532:663" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -260,48 +310,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tow_points.py" />
-        <option value="$PROJECT_DIR$/01_base/kNN2.py" />
-        <option value="$PROJECT_DIR$/01_base/kNN1.py" />
-        <option value="$PROJECT_DIR$/02_kNN/kNN1.py" />
-        <option value="$PROJECT_DIR$/02_kNN/README.md" />
-        <option value="$PROJECT_DIR$/02_kNN/__init__.py" />
-        <option value="$PROJECT_DIR$/02_kNN/kNN2.py" />
-        <option value="$PROJECT_DIR$/02_kNN/identify_handwriting.py" />
-        <option value="$PROJECT_DIR$/02_kNN/testSet.txt" />
-        <option value="$PROJECT_DIR$/02_kNN/02identify_handwriting.py" />
-        <option value="$PROJECT_DIR$/02_kNN/2identify_handwriting.py" />
-        <option value="$PROJECT_DIR$/03_decisionTree/draw_tree.py" />
-        <option value="$PROJECT_DIR$/03_decisionTree/treePlotter.py" />
-        <option value="$PROJECT_DIR$/03_decisionTree/test.py" />
-        <option value="$PROJECT_DIR$/03_decisionTree/README.md" />
-        <option value="$PROJECT_DIR$/03_decisionTree/tree.py" />
-        <option value="$PROJECT_DIR$/geek/recursion.py" />
-        <option value="$PROJECT_DIR$/03_decisionTree/predict_silver_mirror.py" />
-        <option value="$PROJECT_DIR$/04_pusu/bayes.py" />
-        <option value="$PROJECT_DIR$/04_pusu/README.md" />
-        <option value="$PROJECT_DIR$/review/01_reverser.py" />
-        <option value="$PROJECT_DIR$/geek/two_recursion.py" />
-        <option value="$PROJECT_DIR$/geek/merge.py" />
-        <option value="$PROJECT_DIR$/00_machine_learning/first.py" />
         <option value="$PROJECT_DIR$/review/quick_sort.py" />
-        <option value="$PROJECT_DIR$/review/delete_ac_b.py" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/05_logistic_regression/logRegres.py" />
         <option value="$PROJECT_DIR$/05_logistic_regression/README.md" />
-        <option value="$PROJECT_DIR$/review/README.md" />
         <option value="$PROJECT_DIR$/06_sm0/first.py" />
         <option value="$PROJECT_DIR$/review/np_pack.py" />
         <option value="$PROJECT_DIR$/review/egg_floor.py" />
         <option value="$PROJECT_DIR$/06_sm0/svmMLiA.py" />
-        <option value="$PROJECT_DIR$/geek/full_permutation.py" />
-        <option value="$PROJECT_DIR$/review/test.py" />
         <option value="$PROJECT_DIR$/review/Sudoku.py" />
         <option value="$PROJECT_DIR$/02_kNN/createFirstPlot.py" />
         <option value="$PROJECT_DIR$/02_kNN/whether_like.py" />
         <option value="$PROJECT_DIR$/02_kNN/simple.py" />
-        <option value="$PROJECT_DIR$/07_AdaBoost/adaboost1.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/03_decisionTree/tree.py" />
+        <option value="$PROJECT_DIR$/07_AdaBoost/README.d" />
+        <option value="$PROJECT_DIR$/07_AdaBoost/README.md" />
+        <option value="$PROJECT_DIR$/review/README.md" />
+        <option value="$PROJECT_DIR$/review/map_filter.py" />
+        <option value="$PROJECT_DIR$/artificial/Lsystem2.py" />
+        <option value="$PROJECT_DIR$/artificial/Lsystem3.py" />
+        <option value="$PROJECT_DIR$/artificial/Lsystem.py" />
+        <option value="$PROJECT_DIR$/artificial/dynamic_programming/first.py" />
+        <option value="$PROJECT_DIR$/artificial/dynamic_programming/second.py" />
+        <option value="$PROJECT_DIR$/artificial/dynamic_programming/111.py" />
+        <option value="$PROJECT_DIR$/artificial/pailie/all_pailie.py" />
+        <option value="$PROJECT_DIR$/07_AdaBoost/adaboost1.py" />
+        <option value="$PROJECT_DIR$/08_regression/regression.py" />
+        <option value="$PROJECT_DIR$/08_regression/Old_regression.py" />
+        <option value="$PROJECT_DIR$/review/3-Tree.py" />
+        <option value="$PROJECT_DIR$/geek/full_permutation.py" />
+        <option value="$PROJECT_DIR$/geek/combination.py" />
+        <option value="$PROJECT_DIR$/review/delete_ac_b.py" />
+        <option value="$PROJECT_DIR$/july/README.md" />
+        <option value="$PROJECT_DIR$/review/prime.py" />
+        <option value="$PROJECT_DIR$/july/python.py" />
+        <option value="$PROJECT_DIR$/review/test.txt" />
+        <option value="$PROJECT_DIR$/artificial/red_black_tree.py" />
+        <option value="$PROJECT_DIR$/review/test.py" />
+        <option value="$PROJECT_DIR$/review/code/Introduce自我介绍.md" />
+        <option value="$PROJECT_DIR$/review/code/test.py" />
+        <option value="$PROJECT_DIR$/review/code/3-Tree.py" />
+        <option value="$PROJECT_DIR$/review/meiqia/common_str.py" />
+        <option value="$PROJECT_DIR$/review/meiqia/cook_dead.py" />
+        <option value="$PROJECT_DIR$/review/meiqia/dead_lock.py" />
+        <option value="$PROJECT_DIR$/review/tiger/max_profit.py" />
+        <option value="$PROJECT_DIR$/review/tiger/graph.py" />
+        <option value="$PROJECT_DIR$/review/tiger/my_graph.py" />
+        <option value="$PROJECT_DIR$/review/tiger/baidu.py" />
+        <option value="$PROJECT_DIR$/review/meiqia/test.py" />
+        <option value="$PROJECT_DIR$/05_logistic_regression/logRegres.py" />
+        <option value="$PROJECT_DIR$/review/code/eight_queen.py" />
+        <option value="$PROJECT_DIR$/10_k_means/kmeans.py" />
       </list>
     </option>
   </component>
@@ -330,6 +389,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -340,13 +400,12 @@
             <path>
               <item name="machine_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="07_AdaBoost" type="462c0819:PsiDirectoryNode" />
+              <item name="10_k_means" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,7 +414,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/review/code" />
+      <recent name="$PROJECT_DIR$/artificial/Lsystem" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -369,8 +434,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.createFirstPlot">
-    <configuration name="Sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.kmeans">
+    <configuration name="baidu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="atrificial_intelligence" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -378,12 +443,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/review" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/review/tiger" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/review/Sudoku.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/review/tiger/baidu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -392,7 +457,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="createFirstPlot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="eight_queen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="atrificial_intelligence" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -400,12 +465,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_kNN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/review/code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_kNN/createFirstPlot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/review/code/eight_queen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,7 +479,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="full_permutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="kmeans" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="atrificial_intelligence" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -422,34 +487,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geek" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_k_means" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geek/full_permutation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="svmMLiA" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="atrificial_intelligence" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_sm0" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_sm0/svmMLiA.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_k_means/kmeans.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -466,12 +509,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/review" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/review/meiqia" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/review/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/review/meiqia/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tokenize" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="atrificial_intelligence" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/virtualenvs/data_handle/lib/python3.6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/virtualenvs/data_handle/lib/python3.6/tokenize.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -481,19 +546,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.svmMLiA" />
-      <item itemvalue="Python.full_permutation" />
+      <item itemvalue="Python.baidu" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.Sudoku" />
-      <item itemvalue="Python.createFirstPlot" />
+      <item itemvalue="Python.tokenize" />
+      <item itemvalue="Python.eight_queen" />
+      <item itemvalue="Python.kmeans" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.createFirstPlot" />
-        <item itemvalue="Python.Sudoku" />
+        <item itemvalue="Python.kmeans" />
+        <item itemvalue="Python.eight_queen" />
+        <item itemvalue="Python.tokenize" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.full_permutation" />
-        <item itemvalue="Python.svmMLiA" />
+        <item itemvalue="Python.baidu" />
       </list>
     </recent_temporary>
   </component>
@@ -510,6 +575,38 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Doctest_judge_x_to_y - 2019.01.10 at 16h 21m 15s.xml">
+      <configuration name="Doctest judge_x_to_y" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_judge_x_to_y - 2019.01.10 at 16h 21m 50s.xml">
+      <configuration name="Doctest judge_x_to_y" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_judge_x_to_y - 2019.01.10 at 16h 24m 18s.xml">
+      <configuration name="Doctest judge_x_to_y" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_judge_x_to_y - 2019.01.10 at 16h 28m 33s.xml">
+      <configuration name="Doctest judge_x_to_y" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_judge_x_to_y - 2019.01.10 at 16h 30m 40s.xml">
+      <configuration name="Doctest judge_x_to_y" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_judge_x_to_y - 2019.01.10 at 16h 32m 59s.xml">
+      <configuration name="Doctest judge_x_to_y" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_sort_list - 2019.01.10 at 17h 11m 27s.xml">
+      <configuration name="Doctest sort_list" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_convert_num - 2019.01.10 at 17h 12m 05s.xml">
+      <configuration name="Doctest convert_num" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_convert_num - 2019.01.10 at 17h 13m 01s.xml">
+      <configuration name="Doctest convert_num" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_convert_num - 2019.01.10 at 17h 15m 16s.xml">
+      <configuration name="Doctest convert_num" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -523,13 +620,13 @@
     <frame x="43" y="25" width="1323" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20046985" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14173844" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24837662" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3537415" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42517006" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.52040815" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
@@ -537,7 +634,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5085034" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.4217687" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.39795917" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -545,29 +642,6 @@
       <window_info anchor="right" id="SciView" order="3" weight="0.58574784" />
       <window_info anchor="right" id="Database" order="4" weight="0.32967892" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19733751" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.24837662" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3537415" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42517006" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.4007092" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.39795917" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.58574784" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32967892" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -653,11 +727,53 @@
           <line>67</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_decisionTree/tree.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_decisionTree/tree.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/artificial/red_black_tree.py</url>
+          <line>215</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/review/meiqia/cook_dead.py</url>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/review/tiger/my_graph.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10_k_means/kmeans.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10_k_means/kmeans.py</url>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
       </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>for i in acquired:
+    print(id(i))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>for i in reversed([1,2]):
     print(i)</expression-string>
@@ -683,298 +799,60 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>sum(dataMatrix[i] * weights)</expression-string>
+        <expression-string>distEclud()</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>dataMatrix[i] * weights</expression-string>
+        <expression-string>distEclud</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>dataMatrix[i]</expression-string>
+        <expression-string>is_module</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>lis</expression-string>
+        <expression-string>_local</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>A[i] &lt; B[i]</expression-string>
+        <expression-string>_local.acquired</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>B</expression-string>
+        <expression-string>acquired</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>A</expression-string>
+        <expression-string>id(None)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>reversed([1,2])</expression-string>
+        <expression-string>acquired[0]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>[1,23].reverse()</expression-string>
+        <expression-string>id(acquired)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>id(locks[0])</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/virtualenvs/data_handle/lib/python3.6/site-packages/feedparser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="311" selection-start-line="311" selection-end-line="311" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_pusu/EXTRAS/README.txt">
+    <entry file="file://$PROJECT_DIR$/08_regression/ex1.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_pusu/EXTRAS/create2Normal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_pusu/EXTRAS/monoDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_pusu/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="353">
-            <caret line="29" selection-start-line="29" selection-end-line="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_pusu/bayes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="281" column="16" selection-start-line="281" selection-start-column="16" selection-end-line="281" selection-end-column="16" />
-          <folding>
-            <element signature="e#48#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.webworker.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="299" column="15" selection-start-line="299" selection-start-column="15" selection-end-line="299" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-404816960/_ast.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="170" column="6" selection-start-line="170" selection-start-column="6" selection-end-line="170" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-404816960/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="3639" column="31" selection-start-line="3639" selection-start-column="31" selection-end-line="3639" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/geek/two_recursion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="9" selection-start-line="9" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/geek/merge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-428">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <marker date="1545376562544" expanded="true" signature="14:872" ph="..." />
-            <marker date="1545376562544" expanded="true" signature="49:418" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/virtualenvs/data_handle/lib/python3.6/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6061">
-          <caret line="319" selection-start-line="319" selection-end-line="319" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/virtualenvs/data_handle/lib/python3.6/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="220" column="37" selection-start-line="220" selection-start-column="37" selection-end-line="220" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_kNN/testDigits/0_0.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_kNN/identify_handwriting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/review/quick_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/review/01_reverser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="60" column="35" lean-forward="true" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/review/delete_ac_b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/virtualenvs/data_handle/lib/python3.6/site-packages/numpy/core/numeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="187" selection-start-line="187" selection-end-line="187" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-404816960/numpy/core/multiarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="4925" column="25" selection-start-line="4925" selection-start-column="25" selection-end-line="4925" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00_machine_learning/first.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_logistic_regression/horseColicTest.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_logistic_regression/EXTRAS/batch_gradient_descent.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_logistic_regression/testSet.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/virtualenvs/data_handle/lib/python3.6/_bootlocale.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_logistic_regression/horseColicTraining.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5229" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="38">
-            <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_logistic_regression/logRegres.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="159" column="46" selection-start-line="159" selection-start-column="46" selection-end-line="159" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_logistic_regression/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="465">
-            <caret line="118" selection-start-line="118" selection-end-line="118" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_sm0/first.py" />
-    <entry file="file://$PROJECT_DIR$/review/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_sm0/testSet.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/review/np_pack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/review/egg_floor.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/virtualenvs/data_handle/lib/python3.6/site-packages/numpy/core/fromnumeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="1650" selection-start-line="1650" selection-end-line="1650" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/virtualenvs/data_handle/lib/python3.6/site-packages/numpy/matrixlib/defmatrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-404816960/numpy/core/umath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-589">
-          <caret line="3684" column="7" lean-forward="true" selection-start-line="3684" selection-start-column="7" selection-end-line="3684" selection-end-column="7" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$USER_HOME$/virtualenvs/data_handle/lib/python3.6/copy.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -983,100 +861,343 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/07_AdaBoost/adaboost1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/geek/full_permutation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="360">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
           <folding>
-            <marker date="1546051762228" expanded="true" signature="22:23" ph="..." />
-            <marker date="1546051762228" expanded="true" signature="22:27" ph="..." />
-            <marker date="1546051762228" expanded="true" signature="272:281" ph="..." />
+            <marker date="1546773778919" expanded="true" signature="22:23" ph="..." />
+            <marker date="1546773778919" expanded="true" signature="22:27" ph="..." />
+            <marker date="1546773778919" expanded="true" signature="272:281" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geek/combination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/re.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/code/01_reverser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-585" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/docrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="139" column="19" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/code/egg_floor.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/code/delete_ac_b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="137" column="21" selection-start-line="137" selection-start-column="21" selection-end-line="137" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/virtualenvs/data_handle/lib/python3.6/heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="129" column="4" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/july/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="390">
+            <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/july/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/code/prime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/virtualenvs/data_handle/lib/python3.6/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="516" column="8" selection-start-line="516" selection-start-column="8" selection-end-line="516" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/code/Introduce自我介绍.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/virtualenvs/data_handle/lib/python3.6/site-packages/pandas/core/indexes/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/code/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/doctest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11655">
+          <caret line="789" selection-start-line="789" selection-end-line="789" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/code/3-Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/code/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificial/red_black_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3225">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06_sm0/svmMLiA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
+        <state relative-caret-position="3375">
+          <caret line="226" column="57" selection-start-line="226" selection-start-column="57" selection-end-line="226" selection-end-column="57" />
           <folding>
             <marker date="1545839991797" expanded="true" signature="12114:12119" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/review/Sudoku.py">
+    <entry file="file://$PROJECT_DIR$/review/meiqia/common_str.py" />
+    <entry file="file:///usr/lib/python3.6/threading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        <state relative-caret-position="116">
+          <caret line="1146" column="14" selection-start-line="1146" selection-start-column="8" selection-end-line="1146" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/review/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_kNN/createFirstPlot.py">
+    <entry file="file:///usr/lib/python3.6/_threading_local.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        <state relative-caret-position="52">
+          <caret line="203" column="6" selection-start-line="203" selection-start-column="6" selection-end-line="203" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_kNN/datingTestSet2.txt">
+    <entry file="file:///usr/lib/python3.6/contextlib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="137">
+          <caret line="149" column="12" lean-forward="true" selection-start-line="149" selection-start-column="12" selection-end-line="149" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/virtualenvs/data_handle/lib/python3.6/site-packages/matplotlib/axes/_axes.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="4087" column="15" selection-start-line="4087" selection-start-column="15" selection-end-line="4087" selection-end-column="15" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/virtualenvs/data_handle/lib/python3.6/site-packages/numpy/__init__.py">
+    <entry file="file://$PROJECT_DIR$/review/meiqia/cook_dead.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-513">
-          <caret line="60" column="6" lean-forward="true" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_kNN/whether_like.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2261">
-          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_kNN/simple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_AdaBoost/adaboost.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1026" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_AdaBoost/adaboost1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="297">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
           <folding>
-            <marker date="1546184512396" expanded="true" signature="341:346" ph="..." />
-            <marker date="1546184512396" expanded="true" signature="922:1341" ph="..." />
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/review/meiqia/dead_lock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        <state relative-caret-position="64">
+          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/tiger/baidu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/tiger/enumerate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/tiger/graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/tiger/my_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1548031166307" expanded="true" signature="463:468" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/tiger/max_profit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/meiqia/philosopher.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/meiqia/tls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/meiqia/test.py" />
+    <entry file="file://$PROJECT_DIR$/08_regression/Old_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="218" column="55" lean-forward="true" selection-start-line="218" selection-start-column="55" selection-end-line="218" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_regression/regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-855">
+          <caret line="78" column="19" lean-forward="true" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00_machine_learning/first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_logistic_regression/logRegres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="132" column="42" selection-start-line="132" selection-start-column="42" selection-end-line="132" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/virtualenvs/data_handle/lib/python3.6/tokenize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1871">
+          <caret line="450" column="7" lean-forward="true" selection-start-line="450" selection-start-column="7" selection-end-line="450" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/code/eight_queen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-404816960/cmath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="128" column="4" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/symbol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_k_means/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-404816960/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="3751" column="37" selection-start-line="3751" selection-start-column="37" selection-end-line="3751" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_k_means/kmeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <marker date="1548508896908" expanded="true" signature="48:53" ph="..." />
+            <marker date="1548508896908" expanded="true" signature="532:663" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

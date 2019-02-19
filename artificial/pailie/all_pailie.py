@@ -1,0 +1,1 @@
+import numpy as np# subset = np.zeros()lst = list()# permutationdef perm(A, p, q):    if p == q:        lst.append(A)        print(A)    for i in range(p, q):        A[p], A[i] = A[i], A[p]        perm(A, p + 1, q)        A[p], A[i] = A[i], A[p]if __name__ == '__main__':    a = [1, 2, 3, 4, 5]    perm(a, 0, len(a))    print(len(lst))

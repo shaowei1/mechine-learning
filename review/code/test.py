@@ -1,0 +1,1 @@
+"""time limit: c/c++ 2s, others 4sspace limit: c/c++ 131072k, others 262144k# problem    给定一个n*m矩阵A, 矩阵中每个元素A(ij)为一个16进制数    寻找一条从左上角到右下角的路径,每次只能现有或者向下移动,使得路径上所有数字之积在16j进制下的后缀0至少    # input    one line: n, m ( 2 <= n, m <= 1000)    another: n line, 每行m个16进制书, 0 <= A(ij) <= 10^9"""

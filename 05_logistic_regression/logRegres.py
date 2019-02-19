@@ -109,10 +109,13 @@ def stocGradAscent0(dataMatrix, classLabels):
     :param dataMatrix: 分类器的输入数据
     :param classLabels:
     :return:
-    错了1/3的样本, 因为gradAscent0是在整个数据集上迭代了500次才得到的，一个判断优化算法优劣的可靠方法是看它时候收敛,也就是说参数时候达到了稳定值
+    错了1/3的样本, 因为gradAscent0是在整个数据集上迭代了500次才得到的，
+    一个判断优化算法优劣的可靠方法是看它时候收敛,也就是说参数时候达到了稳定值
 
     回归系数经过大量迭代才能到达稳定值
-    在大的波动过后，还有一些小的周期性波动，产生这种现象的原因是存在一些不能正确分类的样本点(数据集并非线性可分),在每次迭代时会发生系数的剧烈波动．我们期待算法能避免来回波动，从而收敛到某个值
+    在大的波动过后，还有一些小的周期性波动，
+    产生这种现象的原因是存在一些不能正确分类的样本点(数据集并非线性可分),
+    在每次迭代时会发生系数的剧烈波动．我们期待算法能避免来回波动，从而收敛到某个值
     """
     m, n = shape(dataMatrix)
     alpha = 0.01
@@ -127,6 +130,8 @@ def stocGradAscent0(dataMatrix, classLabels):
 
 def stocGradAscent1(dataMatrix, classLabels, numIter=150):
     """
+    随机梯度下降更新参数w, 不仅要考虑当前的梯度值， 还要考虑上一次的参数更新
+
     计算回归系数向量
     如果完全收敛结果将确定
 
@@ -146,7 +151,9 @@ def stocGradAscent1(dataMatrix, classLabels, numIter=150):
     for j in range(numIter):
         dataIndex = list(range(m))
         for i in range(m):
-            # alpha每次迭代都进行调整, 会缓解stocGradAscent0的数据波动否则高频波动,会随着alpha迭代，无限接近于0, 但永远不会减小到0,因为有一个参数项,
+            # alpha每次迭代都进行调整, 会缓解stocGradAscent0的数据波动否则高频波动,
+            # 会随着alpha迭代，无限接近于0, 但永远不会减小到0,因为有一个参数项,
+
             # 必须是这样做的原因是为了保证在多次迭代之后新数据依然有影响
 
             # 如果处理的问题是动态变化的，可以适当增大参数项，来确保新的值获得更大的回归系数.
